@@ -17,7 +17,7 @@ public void draw()
 {
 
 background(255);
-
+fill(random(255), random(255), random(255));
 sierpinski(0,900,900);
 
 }
